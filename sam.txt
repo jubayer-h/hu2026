@@ -1,1 +1,3 @@
+Hello
+I have update the sam folder
 This is sam txt 
